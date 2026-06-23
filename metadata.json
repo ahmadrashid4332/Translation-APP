@@ -1,0 +1,6 @@
+{
+  "name": "RomanAI Translator",
+  "description": "A responsive Roman Urdu to English translation tool powered by Gemini 1.5 Flash, featuring phonetic sensing for accurate translation of intent alongside a sleek glassmorphism UI.",
+  "requestFramePermissions": ["clipboard-read", "clipboard-write"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

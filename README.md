@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-[View Live App]: https://romanai-translator-351813541498.asia-southeast1.run.app
+View Live App: https://romanai-translator-351813541498.asia-southeast1.run.app
 
 ## Run Locally
 

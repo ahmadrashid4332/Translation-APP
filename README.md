@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/669869cf-9143-4bd3-8234-4690c3f0087a
+[View Live App]: https://romanai-translator-351813541498.asia-southeast1.run.app
 
 ## Run Locally
 
